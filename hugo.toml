@@ -870,15 +870,12 @@ typeit = true
 social = true
 disclaimer = ""
 [languages.en.params.social]
-GitHub = "xxxx"
-Twitter = "xxxx"
-Instagram = "xxxx"
-Facebook = "xxxx"
-Telegram = "xxxx"
-Youtubelegacy = "xxxx"
-Phone = "555-555-555"
-Email = "xxxx@xxxx.com"
-RSS = true
-[languages.en.params.social.Mastodon]
-id = "@xxxx"
-prefix = "https://mastodon.technology/"
+GitHub = "HousniAbdellatife"
+#Twitter = "xxxx"
+#Instagram = "xxxx"
+#Facebook = "xxxx"
+#Telegram = "xxxx"
+#Youtubelegacy = "xxxx"
+#Phone = "555-555-555"
+Email = "abdellatife.housni@gmail.com"
+RSS = false
