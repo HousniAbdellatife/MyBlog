@@ -1,0 +1,3 @@
+baseURL = "https://.github.io/"
+title = "My Personal Website"
+theme = ["LoveIt"]

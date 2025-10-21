@@ -1,0 +1,3 @@
+Edit# Ignore all other themes except LoveIt submodule
+themes/*/
+!themes/LoveIt/

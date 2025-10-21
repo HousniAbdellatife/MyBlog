@@ -1,0 +1,9 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://localhost:59256/posts/first-post/</loc><lastmod>2025-10-21T15:15:17&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:59256/</loc><lastmod>2025-10-21T15:15:17&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:59256/posts/</loc><lastmod>2025-10-21T15:15:17&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:59256/categories/</loc></url><url>
+            <loc>http://localhost:59256/tags/</loc></url></urlset>
